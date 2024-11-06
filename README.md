@@ -1,2 +1,2 @@
 # FORK
-## Diák neve
+## Medgyaszay Gergő
